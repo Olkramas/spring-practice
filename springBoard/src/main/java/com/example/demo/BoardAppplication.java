@@ -10,9 +10,8 @@ import lombok.extern.slf4j.Slf4j;
 @SpringBootApplication
 @MapperScan(basePackages = "com.example.demo.**.mappers")
 public class BoardAppplication {
-
+	
 	public static void main(String[] args) {
 		SpringApplication.run(BoardAppplication.class, args);
 	}
-
 }

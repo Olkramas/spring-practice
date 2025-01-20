@@ -1,4 +1,4 @@
-package com.example.demo.securing.mapper;
+package com.example.demo.securing.mappers;
 
 import java.util.List;
 
